@@ -71,7 +71,6 @@ const rawQuestions = [
   { name: "Valid Palindrome", url: "https://leetcode.com/problems/valid-palindrome/" },
   { name: "Longest Palindromic Substring", url: "https://leetcode.com/problems/longest-palindromic-substring/" },
   { name: "Palindromic Substrings", url: "https://leetcode.com/problems/palindromic-substrings/" },
-  { name: "Encode and Decode Strings", url: "https://leetcode.com/problems/encode-and-decode-strings/" },
   { name: "Maximum Depth of Binary Tree", url: "https://leetcode.com/problems/maximum-depth-of-binary-tree/" },
   { name: "Same Tree", url: "https://leetcode.com/problems/same-tree/" },
   { name: "Invert/Flip Binary Tree", url: "https://leetcode.com/problems/invert-binary-tree/" },
